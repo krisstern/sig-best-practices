@@ -27,6 +27,7 @@ Full SIG Proposal: https://github.com/cdfoundation/toc/blob/master/sigs/best-pra
 * Tara Hernandez ([@tequilarista](https://github.com/tequilarista)), MongoDB
 * Tracy Miranda ([@tracymiranda](https://github.com/tracymiranda)), Chainguard
 * Terry Cox ([@tdcox](https://github.com/tdcox)), Bootstrap
+* Kris Stern ([@krisstern](https://github.com/krisstern)), Jenkins
 
 ## Governance
 
